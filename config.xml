@@ -6,7 +6,7 @@
         id        = "com.coletto.socialsharing"
         version   = "1.0.0">
 
-    <name>mi primera app	</name>
+    <name>mi primera app</name>
 
     <description>
         app de prueba 2 pantallas
@@ -43,7 +43,7 @@
     <!-- Plugins -->
 
     <!-- Core plugins -->
-		<gap:plugin name="nl.x-services.plugins.socialsharing" />
+		<!--gap:plugin name="nl.x-services.plugins.socialsharing" /-->
 
 		<gap:plugin name="org.apache.cordova.device-motion" version="0.2.10" />
 
